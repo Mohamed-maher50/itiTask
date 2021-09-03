@@ -1,0 +1,13 @@
+.Users {
+  background-color: rgb(32, 32, 32) !important;
+  padding: 100px 0;
+}
+.Users h6 {
+  color: #333;
+}
+.Users h6 span {
+  color: rgb(104, 104, 104);
+}
+.Users .btn {
+  margin-top: 10px;
+}

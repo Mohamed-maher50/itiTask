@@ -1,0 +1,20 @@
+.home {
+  background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("https://images.pexels.com/photos/8353777/pexels-photo-8353777.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+  height: calc(100vh - 56px);
+  background-size: cover;
+  overflow: hidden;
+}
+.text-center {
+  color: #fff;
+  width: max-content;
+  font-size: 7rem;
+  margin: auto;
+  font-weight: bold;
+  font-family: "Raleway";
+  margin-top: 150px;
+}

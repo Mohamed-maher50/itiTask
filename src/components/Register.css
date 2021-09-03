@@ -1,0 +1,10 @@
+.Register {
+  height: calc(100vh - 75px);
+  background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 0.8),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url("https://images.pexels.com/photos/8353777/pexels-photo-8353777.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+  background-size: cover;
+}
